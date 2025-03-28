@@ -9,11 +9,17 @@
 ## 🎯 Key Features
 
 ✅ **Market Analysis** (Identifying trading patterns, market trends)
+
 ✅ **Automated Trading System** (Automatic entry and exit of trades)
+
 ✅ **Risk Management** (Using stop loss, take profit, and capital management)
+
 ✅ **Advanced AI** (Machine learning models for predicting market movements)
+
 ✅ **Supports Multiple Brokers** (MetaTrader 5, cTrader, and others)
+
 ✅ **Timely Notifications** (Sending buy and sell signals via SMS and email)
+
 ✅ **Live Data Support** (Receiving and processing live market data)
 
 ---
@@ -77,11 +83,17 @@ We welcome contributions! If you have ideas for improvements, feel free to contr
 ## 🎯 ویژگی‌های کلیدی
 
 ✅ **تحلیل بازار** (شناسایی الگوهای معاملاتی، روند بازار)
+
 ✅ **سیستم معاملات خودکار** (ورود و خروج خودکار از معاملات)
+
 ✅ **مدیریت ریسک** (استفاده از حد ضرر، حد سود و مدیریت سرمایه)
+
 ✅ **هوش مصنوعی پیشرفته** (استفاده از مدل‌های یادگیری ماشین برای پیش‌بینی حرکات بازار)
+
 ✅ **پشتیبانی از چندین بروکر** (MetaTrader 5، cTrader و دیگر پلتفرم‌ها)
+
 ✅ **اطلاع‌رسانی به‌موقع** (ارسال سیگنال‌های خرید و فروش از طریق پیامک و ایمیل)
+
 ✅ **پشتیبانی از داده‌های زنده** (دریافت و پردازش داده‌های لایو از بازار)
 
 ---
